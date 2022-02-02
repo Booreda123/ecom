@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ecomv/static/css/main.8aec491a.chunk.css",
+    "main.js": "/ecomv/static/js/main.1c05da41.chunk.js",
+    "main.js.map": "/ecomv/static/js/main.1c05da41.chunk.js.map",
+    "runtime-main.js": "/ecomv/static/js/runtime-main.e0e86a44.js",
+    "runtime-main.js.map": "/ecomv/static/js/runtime-main.e0e86a44.js.map",
+    "static/js/2.073f6f6b.chunk.js": "/ecomv/static/js/2.073f6f6b.chunk.js",
+    "static/js/2.073f6f6b.chunk.js.map": "/ecomv/static/js/2.073f6f6b.chunk.js.map",
+    "index.html": "/ecomv/index.html",
+    "static/css/main.8aec491a.chunk.css.map": "/ecomv/static/css/main.8aec491a.chunk.css.map",
+    "static/js/2.073f6f6b.chunk.js.LICENSE.txt": "/ecomv/static/js/2.073f6f6b.chunk.js.LICENSE.txt",
+    "static/media/Canon-Kit.ddc86a14.png": "/ecomv/static/media/Canon-Kit.ddc86a14.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0e86a44.js",
+    "static/js/2.073f6f6b.chunk.js",
+    "static/css/main.8aec491a.chunk.css",
+    "static/js/main.1c05da41.chunk.js"
+  ]
+}
